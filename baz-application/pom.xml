@@ -3,7 +3,7 @@
     <parent>
         <groupId>com.ardetrick</groupId>
         <artifactId>release-please-plaground-parent</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.1-SNAPSHOT</version>
     </parent>
 
     <artifactId>baz-application</artifactId>
