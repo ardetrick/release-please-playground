@@ -9,29 +9,19 @@
   ],
   "packages": {
     "shared-lib": {
-      "release-type": "maven",
-      "component": "shared-lib",
-      "include-v-in-tag": true
+      "component": "shared-lib"
     },
     "foo-service": {
-      "release-type": "maven",
-      "component": "foo-service",
-      "include-v-in-tag": true
+      "component": "foo-service"
     },
     "foo-application": {
-      "release-type": "maven",
-      "component": "foo-application",
-      "include-v-in-tag": true
+      "component": "foo-application"
     },
     "bar-application": {
-      "release-type": "maven",
-      "component": "bar-application",
-      "include-v-in-tag": true
+      "component": "bar-application"
     },
     "baz-application": {
-      "release-type": "maven",
-      "component": "baz-application",
-      "include-v-in-tag": true
+      "component": "baz-application"
     }
   }
 }
