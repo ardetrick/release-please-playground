@@ -2,10 +2,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.ardetrick</groupId>
-        <artifactId>release-please-plaground-parent</artifactId>
+        <artifactId>release-please-playground-parent</artifactId>
         <version>1.7.1-SNAPSHOT</version>
     </parent>
 
+    <groupId>com.ardetrick</groupId>
     <artifactId>foo-application</artifactId>
     <packaging>jar</packaging>
     <version>1.7.1-SNAPSHOT</version>
