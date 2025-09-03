@@ -8,6 +8,7 @@
 
     <artifactId>foo-application</artifactId>
     <packaging>jar</packaging>
+    <version>0.1.1</version>
 
     <name>foo-application</name>
 
