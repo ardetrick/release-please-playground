@@ -1,7 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
-  "bootstrap-sha": "872d92ea836efe08668d5c820e6a9f6d086d5392",
+  "bootstrap-sha": "4d71922260bcba710cab3cb4b337230faf0ed93e",
   "release-type": "maven",
+  "separate-pull-requests": false,
   "plugins": [
     {
       "type": "maven-workspace",
