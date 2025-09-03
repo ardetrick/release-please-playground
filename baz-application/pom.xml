@@ -10,9 +10,6 @@
     <version>1.6.0</version>
     <packaging>jar</packaging>
 
-    <name>baz-application</name>
-    <url>http://maven.apache.org</url>
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
@@ -26,7 +23,7 @@
         </dependency>
         <dependency>
             <groupId>com.ardetrick</groupId>
-            <artifactId>shared-lib</artifactId>
+            <artifactId>shared-lib</artifactId><!-- {x-version-update:shared-lib:current} -->
             <version>1.5.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
