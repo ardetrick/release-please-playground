@@ -4,7 +4,8 @@
   "release-type": "maven",
   "plugins": [
     {
-      "type": "maven-workspace"
+      "type": "maven-workspace",
+      "considerAllArtifacts": true
     }
   ],
   "packages": {
