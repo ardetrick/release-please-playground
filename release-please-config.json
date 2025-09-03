@@ -3,6 +3,8 @@
   "bootstrap-sha": "4d71922260bcba710cab3cb4b337230faf0ed93e",
   "release-type": "maven",
   "separate-pull-requests": false,
+  "include-component-in-tag": true,
+  "include-v-in-tag": true,
   "plugins": [
     {
       "type": "maven-workspace",
@@ -31,7 +33,7 @@
       "release-type": "maven"
     },
     ".": {
-      "component": "release-please-playground-parent",
+      "component": "parent",
       "release-type": "maven"
     }
   }
