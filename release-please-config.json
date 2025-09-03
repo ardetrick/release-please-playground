@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "separate-pull-requests": false,
   "bootstrap-sha": "872d92ea836efe08668d5c820e6a9f6d086d5392",
-  "release-type": "java-yoshi",
+  "release-type": "maven",
   "plugins": [
     {
       "type": "maven-workspace",

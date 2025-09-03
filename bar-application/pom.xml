@@ -3,7 +3,7 @@
     <parent>
         <groupId>com.ardetrick</groupId>
         <artifactId>release-please-plaground-parent</artifactId>
-        <version>1.5.1-SNAPSHOT</version>
+        <version>1.7.1-SNAPSHOT</version>
     </parent>
 
     <artifactId>bar-application</artifactId>
@@ -24,7 +24,7 @@
         <dependency>
             <groupId>com.ardetrick</groupId>
             <artifactId>shared-lib</artifactId>
-            <version>1.5.1-SNAPSHOT</version>
+            <version>1.7.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>

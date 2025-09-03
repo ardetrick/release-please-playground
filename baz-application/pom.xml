@@ -3,7 +3,7 @@
     <parent>
         <groupId>com.ardetrick</groupId>
         <artifactId>release-please-plaground-parent</artifactId>
-        <version>1.5.1-SNAPSHOT</version>
+        <version>1.7.1-SNAPSHOT</version>
     </parent>
 
     <artifactId>baz-application</artifactId>
@@ -23,8 +23,8 @@
         </dependency>
         <dependency>
             <groupId>com.ardetrick</groupId>
-            <artifactId>shared-lib</artifactId><!-- {x-version-update:shared-lib:current} -->
-            <version>1.5.1-SNAPSHOT</version>
+            <artifactId>shared-lib</artifactId>
+            <version>1.7.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
