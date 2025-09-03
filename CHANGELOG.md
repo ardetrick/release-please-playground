@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.0](https://github.com/ardetrick/release-please-playground/compare/v1.2.0...v1.3.0) (2025-09-03)
+
+
+### Features
+
+* add dep to foo-service ([9958a02](https://github.com/ardetrick/release-please-playground/commit/9958a02edcc30348f808c9f997039056e085f13b))
+* added version to sahred-lib ([fdc29e0](https://github.com/ardetrick/release-please-playground/commit/fdc29e0ad463418d8af7d7e2b584233f7f99aedf))
+* remove . ([59f4f05](https://github.com/ardetrick/release-please-playground/commit/59f4f05d0ec75069e17c380c63c04897128ca0e2))
+
 ## [1.2.0](https://github.com/ardetrick/release-please-playground/compare/v1.1.0...v1.2.0) (2025-09-03)
 
 
