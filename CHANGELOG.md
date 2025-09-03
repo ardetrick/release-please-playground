@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/ardetrick/release-please-playground/compare/v1.0.0...v1.1.0) (2025-09-03)
+
+
+### Features
+
+* add lib as dep ([973668e](https://github.com/ardetrick/release-please-playground/commit/973668ea9a92c6b69e0015446eaa6c41d3442e18))
+
 ## 1.0.0 (2025-09-03)
 
 
