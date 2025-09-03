@@ -28,11 +28,6 @@
       "release-type": "maven",
       "component": "baz-application",
       "include-v-in-tag": true
-    },
-    ".": {
-      "release-type": "maven",
-      "component": "parent",
-      "include-v-in-tag": true
     }
   }
 }
