@@ -4,29 +4,30 @@
   "release-type": "java-yoshi",
   "plugins": [
     {
-      "type": "maven-workspace"
+      "type": "maven-workspace",
+      "considerAllArtifacts": true
     }
   ],
   "packages": {
     "shared-lib": {
       "component": "shared-lib",
-      "release-type": "java-yoshi"
+      "release-type": "maven"
     },
     "foo-service": {
       "component": "foo-service",
-      "release-type": "java-yoshi"
+      "release-type": "maven"
     },
     "foo-application": {
       "component": "foo-application",
-      "release-type": "java-yoshi"
+      "release-type": "maven"
     },
     "bar-application": {
       "component": "bar-application",
-      "release-type": "java-yoshi"
+      "release-type": "maven"
     },
     "baz-application": {
       "component": "baz-application",
-      "release-type": "java-yoshi"
+      "release-type": "maven"
     }
   }
 }
