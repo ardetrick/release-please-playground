@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.6.0](https://github.com/ardetrick/release-please-playground/compare/v1.5.0...v1.6.0) (2025-09-03)
+
+
+### Features
+
+* shared-lib ([53522aa](https://github.com/ardetrick/release-please-playground/commit/53522aadebacda368bdb51ea68bc53890224b9b5))
+* try yoshi ([2c81897](https://github.com/ardetrick/release-please-playground/commit/2c81897c22ea7cd25e5e85024d0f8188518760b2))
+
 ## [1.5.0](https://github.com/ardetrick/release-please-playground/compare/v1.4.0...v1.5.0) (2025-09-03)
 
 
