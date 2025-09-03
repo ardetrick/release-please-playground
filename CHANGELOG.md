@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/ardetrick/release-please-playground/compare/v1.7.0...v1.8.0) (2025-09-03)
+
+
+### Features
+
+* shared-lib update ([0d28ae6](https://github.com/ardetrick/release-please-playground/commit/0d28ae6da1db7921a25a97737c2ba7bdb6db97a3))
+
 ## [1.7.0](https://github.com/ardetrick/release-please-playground/compare/v1.6.0...v1.7.0) (2025-09-03)
 
 
