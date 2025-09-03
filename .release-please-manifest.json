@@ -1,5 +1,5 @@
 {
-  "shared-lib": "0.1.0",
+  "shared-lib": "1.0.1",
   "foo-service": "0.1.0",
   "foo-application": "0.1.0",
   "bar-application": "0.1.0",
