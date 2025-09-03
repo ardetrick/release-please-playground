@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.0](https://github.com/ardetrick/release-please-playground/compare/v1.1.0...v1.2.0) (2025-09-03)
+
+
+### Features
+
+* add . to config ([f8deeb2](https://github.com/ardetrick/release-please-playground/commit/f8deeb2abf391fbf2aef5e200ef762c5150a8d8a))
+* remove command ([8c73531](https://github.com/ardetrick/release-please-playground/commit/8c73531971071f00b974aa0870f60e3c53154575))
+* shared-lib update ([09f2d23](https://github.com/ardetrick/release-please-playground/commit/09f2d23b06c37d05e29c9218ac02adf0d86d08de))
+
 ## [1.1.0](https://github.com/ardetrick/release-please-playground/compare/v1.0.0...v1.1.0) (2025-09-03)
 
 
