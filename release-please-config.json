@@ -1,28 +1,32 @@
 {
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
-  "separate-pull-requests": true,
+  "separate-pull-requests": false,
   "release-type": "java-yoshi",
   "plugins": [
     {
-      "type": "maven-workspace",
-      "considerAllArtifacts": true
+      "type": "maven-workspace"
     }
   ],
   "packages": {
     "shared-lib": {
-      "component": "shared-lib"
+      "component": "shared-lib",
+      "release-type": "java-yoshi"
     },
     "foo-service": {
-      "component": "foo-service"
+      "component": "foo-service",
+      "release-type": "java-yoshi"
     },
     "foo-application": {
-      "component": "foo-application"
+      "component": "foo-application",
+      "release-type": "java-yoshi"
     },
     "bar-application": {
-      "component": "bar-application"
+      "component": "bar-application",
+      "release-type": "java-yoshi"
     },
     "baz-application": {
-      "component": "baz-application"
+      "component": "baz-application",
+      "release-type": "java-yoshi"
     }
   }
 }
