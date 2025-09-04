@@ -1,8 +1,4 @@
 {
-  "shared-lib": "1.0.1",
-  "foo-service": "0.1.0",
-  "foo-application": "0.1.0",
-  "bar-application": "0.1.0",
-  "baz-application": "0.1.0",
-  ".": "1.7.0"
+  "shared-lib": "1.7.1",
+  "foo-application": "1.0.2"
 }

@@ -11,8 +11,5 @@
     <modules>
         <module>shared-lib</module>
         <module>foo-application</module>
-        <module>bar-application</module>
-        <module>baz-application</module>
-        <module>foo-service</module>
     </modules>
 </project>

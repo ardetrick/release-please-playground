@@ -1,40 +1,18 @@
 {
-  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "bootstrap-sha": "4d71922260bcba710cab3cb4b337230faf0ed93e",
-  "release-type": "maven",
-  "separate-pull-requests": false,
-  "include-component-in-tag": true,
-  "include-v-in-tag": true,
   "plugins": [
-    {
-      "type": "maven-workspace",
-      "considerAllArtifacts": true
-    }
+    "maven-workspace"
   ],
   "packages": {
     "shared-lib": {
-      "component": "shared-lib",
-      "release-type": "maven"
-    },
-    "foo-service": {
-      "component": "foo-service",
-      "release-type": "maven"
+      "path": "shared-lib",
+      "release-type": "maven",
+      "component": "shared-lib"
     },
     "foo-application": {
-      "component": "foo-application",
-      "release-type": "maven"
-    },
-    "bar-application": {
-      "component": "bar-application",
-      "release-type": "maven"
-    },
-    "baz-application": {
-      "component": "baz-application",
-      "release-type": "maven"
-    },
-    ".": {
-      "component": "parent",
-      "release-type": "maven"
+      "path": "foo-application",
+      "release-type": "maven",
+      "component": "foo-application"
     }
   }
 }
