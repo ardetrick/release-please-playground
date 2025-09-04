@@ -8,6 +8,12 @@
     "maven-workspace"
   ],
   "packages": {
+    ".": {
+      "release-type": "maven",
+      "component": "parent",
+      "include-v-in-tag": true,
+      "include-component-in-tag": true
+    },
     "shared-lib": {
       "path": "shared-lib",
       "release-type": "maven",
