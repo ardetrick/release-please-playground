@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.0](https://github.com/ardetrick/release-please-playground/compare/shared-lib-v4.1.0...shared-lib-v4.2.0) (2025-09-04)
+
+
+### Features
+
+* shared lib change ([f9848ed](https://github.com/ardetrick/release-please-playground/commit/f9848ededd881b511c669cb915c00e4b598757bf))
+
 ## [4.1.0](https://github.com/ardetrick/release-please-playground/compare/shared-lib-v4.0.0...shared-lib-v4.1.0) (2025-09-04)
 
 
