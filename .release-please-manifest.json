@@ -1,4 +1,4 @@
 {
-  "shared-lib": "2.0.0",
-  "foo-application": "2.0.0"
+  "shared-lib": "3.0.0",
+  "foo-application": "3.0.0"
 }
