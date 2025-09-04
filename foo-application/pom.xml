@@ -9,7 +9,7 @@
     <groupId>com.ardetrick</groupId>
     <artifactId>foo-application</artifactId>
     <packaging>jar</packaging>
-    <version>4.1.1</version>
+    <version>4.2.0</version>
 
     <name>foo-application</name>
 
