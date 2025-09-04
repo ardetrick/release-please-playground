@@ -1,6 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "bootstrap-sha": "b89c3a56cf860f0dcc7df927eddb720c2e109be6",
+  "separate-pull-requests": false,
   "include-component-in-tag": true,
   "include-v-in-tag": true,
   "plugins": [
@@ -10,12 +11,16 @@
     "shared-lib": {
       "path": "shared-lib",
       "release-type": "maven",
-      "component": "shared-lib"
+      "component": "shared-lib",
+      "include-v-in-tag": true,
+      "include-component-in-tag": true
     },
     "foo-application": {
       "path": "foo-application",
       "release-type": "maven",
-      "component": "foo-application"
+      "component": "foo-application",
+      "include-v-in-tag": true,
+      "include-component-in-tag": true
     }
   }
 }
