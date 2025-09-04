@@ -1,5 +1,8 @@
 # Changelog
 
+* The following workspace dependencies were updated
+    * com.ardetrick:shared-lib bumped to 4.3.1-SNAPSHOT
+
 ## [4.1.0](https://github.com/ardetrick/release-please-playground/compare/foo-application-v4.0.1...foo-application-v4.1.0) (2025-09-04)
 
 
