@@ -8,7 +8,8 @@
     "maven-workspace"
   ],
   "packages": {
-    ".": {
+    "parent": {
+      "path": ".",
       "release-type": "maven",
       "component": "parent",
       "include-v-in-tag": true,
