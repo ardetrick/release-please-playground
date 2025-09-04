@@ -9,7 +9,7 @@
     <groupId>com.ardetrick</groupId>
     <artifactId>foo-application</artifactId>
     <packaging>jar</packaging>
-    <version>4.0.1-SNAPSHOT</version>
+    <version>4.0.1</version>
 
     <name>foo-application</name>
 
@@ -27,7 +27,7 @@
         <dependency>
             <groupId>com.ardetrick</groupId>
             <artifactId>shared-lib</artifactId>
-            <version>4.1.0</version>
+            <version>4.1.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
