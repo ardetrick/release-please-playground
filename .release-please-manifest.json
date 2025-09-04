@@ -1,5 +1,4 @@
 {
-  "shared-lib": "1.7.1",
-  "foo-application": "1.0.2",
-  ".": "1.9.0"
+  "shared-lib": "2.0.0",
+  "foo-application": "2.0.0"
 }

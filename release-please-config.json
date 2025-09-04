@@ -1,5 +1,5 @@
 {
-  "bootstrap-sha": "4d71922260bcba710cab3cb4b337230faf0ed93e",
+  "bootstrap-sha": "3d103648ae0963b517bb2637bc54b7c42e7bf5bb",
   "include-component-in-tag": true,
   "plugins": [
     "maven-workspace"
