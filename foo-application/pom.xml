@@ -5,7 +5,6 @@
         <artifactId>release-please-playground-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-
     <groupId>com.ardetrick</groupId>
     <artifactId>foo-application</artifactId>
     <packaging>jar</packaging>

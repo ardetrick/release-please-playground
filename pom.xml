@@ -9,6 +9,7 @@
     <properties>
         <foo>foo</foo>
     </properties>
+
     <modules>
         <module>shared-lib</module>
         <module>foo-application</module>
