@@ -7,10 +7,10 @@
     "maven-workspace"
   ],
   "packages": {
-    "parent": {
+    "release-please-playground-parent": {
       "path": "parent",
       "release-type": "maven",
-      "component": "parent"
+      "component": "release-please-playground-parent"
     },
     "shared-lib": {
       "path": "shared-lib",

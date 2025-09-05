@@ -1,5 +1,5 @@
 {
   "shared-lib": "5.3.0",
   "foo-application": "6.3.0",
-  "parent": "7.1.0"
+  "release-please-playground-parent": "7.1.0"
 }
