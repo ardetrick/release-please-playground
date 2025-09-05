@@ -9,7 +9,7 @@
     <groupId>com.ardetrick</groupId>
     <artifactId>foo-application</artifactId>
     <packaging>jar</packaging>
-    <version>6.3.1-SNAPSHOT</version>
+    <version>6.5.0</version>
     <name>foo-application</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -24,7 +24,7 @@
         <dependency>
             <groupId>com.ardetrick</groupId>
             <artifactId>shared-lib</artifactId>
-            <version>5.3.1-SNAPSHOT</version>
+            <version>5.5.0</version>
         </dependency>
     </dependencies>
 </project>
