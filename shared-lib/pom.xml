@@ -5,6 +5,7 @@
         <artifactId>release-please-playground-parent</artifactId>
         <version>1.9.1-SNAPSHOT</version>
     </parent>
+
     <groupId>com.ardetrick</groupId>
     <artifactId>shared-lib</artifactId>
     <version>5.0.1-SNAPSHOT</version>
