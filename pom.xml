@@ -9,5 +9,4 @@
         <module>shared-lib</module>
         <module>foo-application</module>
     </modules>
-
 </project>
