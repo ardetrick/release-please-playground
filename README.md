@@ -1,5 +1,7 @@
 
 
+Links:
+* https://github.com/googleapis/release-please/issues/2339
 
 ```mermaid
 graph TD
@@ -35,30 +37,3 @@ graph TD
 
 
 
-
-```json
-{
-  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
-  "release-type": "maven",
-  "separate-pull-requests": false,
-  "include-component-in-tag": true,
-  "include-v-in-tag": true,
-  "plugins": [
-    {
-      "type": "maven-workspace",
-      "considerAllArtifacts": true
-    }
-  ],
-  "packages": {
-    "shared-lib": {
-      "component": "shared-lib",
-      "release-type": "maven"
-    },
-    "foo-application": {
-      "component": "foo-application",
-      "release-type": "maven"
-    }
-  }
-}
-
-```
