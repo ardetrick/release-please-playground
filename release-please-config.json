@@ -8,7 +8,7 @@
   ],
   "packages": {
     "parent": {
-      "path": ".",
+      "path": "parent",
       "release-type": "maven",
       "component": "parent"
     },
