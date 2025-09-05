@@ -11,23 +11,17 @@
     "parent": {
       "path": ".",
       "release-type": "maven",
-      "component": "parent",
-      "include-v-in-tag": true,
-      "include-component-in-tag": true
+      "component": "parent"
     },
     "shared-lib": {
       "path": "shared-lib",
       "release-type": "maven",
-      "component": "shared-lib",
-      "include-v-in-tag": true,
-      "include-component-in-tag": true
+      "component": "shared-lib"
     },
     "foo-application": {
       "path": "foo-application",
       "release-type": "maven",
-      "component": "foo-application",
-      "include-v-in-tag": true,
-      "include-component-in-tag": true
+      "component": "foo-application"
     }
   }
 }
