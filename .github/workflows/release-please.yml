@@ -11,15 +11,22 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout (for debugging only)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Show config & manifest present on main
+        run: |
+          echo "== release-please-config.json =="
+          test -f release-please-config.json && cat release-please-config.json || echo "MISSING"
+          echo "== .release-please-manifest.json =="
+          test -f .release-please-manifest.json && cat .release-please-manifest.json || echo "MISSING"
+
       - uses: googleapis/release-please-action@v4
         with:
           config-file: release-please-config.json
           manifest-file: .release-please-manifest.json
           include-component-in-tag: true
           token: ${{ secrets.RELEASE_PLEASE_PAT }}
-      - name: Show config actually on main
-        run: |
-          echo "== release-please-config.json on main =="
-          git show origin/main:release-please-config.json || true
-          echo "== manifest on main =="
-          git show origin/main:.release-please-manifest.json || true
