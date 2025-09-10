@@ -1,5 +1,5 @@
 # Format:
 # module:released-version:current-version
 
-foo-application:6.9.0:6.9.1-SNAPSHOT
-shared-lib:5.9.0:5.9.1-SNAPSHOT
+foo-application:6.10.0:6.10.0
+shared-lib:5.10.0:5.10.0
