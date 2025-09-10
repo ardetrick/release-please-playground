@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/ardetrick/release-please-playground/compare/v0.4.0...v0.5.0) (2025-09-10)
+
+
+### Features
+
+* lib ([10ac3e8](https://github.com/ardetrick/release-please-playground/commit/10ac3e8046fcc5a74aa6c6d220339912d57853b3))
+
 ## [0.4.0](https://github.com/ardetrick/release-please-playground/compare/v0.3.0...v0.4.0) (2025-09-10)
 
 
