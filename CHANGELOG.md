@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/ardetrick/release-please-playground/compare/v0.3.0...v0.4.0) (2025-09-10)
+
+
+### Features
+
+* yoshi ([a42b37a](https://github.com/ardetrick/release-please-playground/commit/a42b37a5c784689e8f78b3349dcf4a6ba7513dbe))
+
 ## [0.3.0](https://github.com/ardetrick/release-please-playground/compare/v0.2.0...v0.3.0) (2025-09-10)
 
 
