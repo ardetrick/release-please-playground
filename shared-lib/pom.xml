@@ -7,11 +7,7 @@
     </parent>
     <groupId>com.ardetrick</groupId>
     <artifactId>shared-lib</artifactId>
-<<<<<<< HEAD
-    <version>5.7.1-SNAPSHOT</version>
-=======
-    <version>5.5.1-SNAPSHOT</version> <!-- x-version-update:shared-lib:current -->
->>>>>>> f2b9176 (feat: try java-yoshi)
+    <version>5.11.1-SNAPSHOT</version> <!-- {x-version-update:shared-lib:current} -->
     <packaging>jar</packaging>
     <name>shared-lib</name>
     <dependencies>
