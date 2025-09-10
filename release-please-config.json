@@ -4,7 +4,7 @@
   "separate-pull-requests": false,
   "include-component-in-tag": true,
   "include-v-in-tag": true,
-  "release-type": "java-yoshi",
+  "release-type": "java-yoshi-mono-repo",
   "packages": {
     ".": {}
   }
