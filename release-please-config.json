@@ -10,12 +10,12 @@
   "packages": {
     "shared-lib": {
       "path": "shared-lib",
-      "release-type": "maven",
+      "release-type": "java-yoshi",
       "component": "shared-lib"
     },
     "foo-application": {
       "path": "foo-application",
-      "release-type": "maven",
+      "release-type": "java-yoshi",
       "component": "foo-application"
     }
   }
