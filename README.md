@@ -3,6 +3,7 @@
 Links:
 * https://github.com/googleapis/release-please/issues/2339
 * https://github.com/meltsufin/google-cloud-java/tree/main
+* https://github.com/googleapis/release-please/issues/2477
 
 ```mermaid
 graph TD
