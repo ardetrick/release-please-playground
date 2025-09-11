@@ -1,0 +1,4 @@
+# Format:
+# module:released-version:current-version
+
+foo-application:6.13.0:6.13.1-SNAPSHOT
