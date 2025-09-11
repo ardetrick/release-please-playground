@@ -7,7 +7,7 @@
   "packages": {
     "shared-lib": {
       "path": "shared-lib",
-      "release-type": "java-yoshi",
+      "release-type": "maven-workspace",
       "component": "shared-lib",
       "extra-files": [
         {
@@ -18,7 +18,7 @@
     },
     "foo-application": {
       "path": "foo-application",
-      "release-type": "java-yoshi",
+      "release-type": "maven-workspace",
       "component": "foo-application"
     }
   },

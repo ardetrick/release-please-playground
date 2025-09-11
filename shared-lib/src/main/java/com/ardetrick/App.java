@@ -1,7 +1,7 @@
 package com.ardetrick;
 
 /**
- * Hello world!1
+ * Hello world!
  */
 public class App 
 {
