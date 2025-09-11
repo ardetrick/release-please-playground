@@ -1,4 +1,4 @@
 # Format:
 # module:released-version:current-version
 
-shared-lib:5.15.0:5.15.0
+shared-lib:5.15.0:5.15.1-SNAPSHOT
