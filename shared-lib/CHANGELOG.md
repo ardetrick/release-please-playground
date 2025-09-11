@@ -1,5 +1,13 @@
 # Changelog
 
+## [5.9.0](https://github.com/ardetrick/release-please-playground/compare/shared-lib-v5.8.0...shared-lib-v5.9.0) (2025-09-11)
+
+
+### Features
+
+* foo ([2d21659](https://github.com/ardetrick/release-please-playground/commit/2d216591c23a0c0bf4a884e8ed556f422a915165))
+* **shared-lib:** just shared lib ([1db4ae3](https://github.com/ardetrick/release-please-playground/commit/1db4ae354b2aad5eae725038aecdc70c6d9fe36a))
+
 ## [5.8.0](https://github.com/ardetrick/release-please-playground/compare/shared-lib-v5.7.0...shared-lib-v5.8.0) (2025-09-11)
 
 
