@@ -1,4 +1,4 @@
 # Format:
 # module:released-version:current-version
 
-foo-application:6.14.0:6.14.0
+foo-application:6.14.0:6.14.1-SNAPSHOT
