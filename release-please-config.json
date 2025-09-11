@@ -10,7 +10,10 @@
       "release-type": "java-yoshi",
       "component": "shared-lib",
       "extra-files": [
-        "/foo-application/pom.xml"
+        {
+          "type": "pom",
+          "path": "/foo-application/pom.xml"
+        }
       ]
     },
     "foo-application": {
