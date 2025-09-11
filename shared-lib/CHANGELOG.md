@@ -1,5 +1,15 @@
 # Changelog
 
+## [5.8.0](https://github.com/ardetrick/release-please-playground/compare/shared-lib-v5.7.0...shared-lib-v5.8.0) (2025-09-11)
+
+
+### Features
+
+* lib ([10ac3e8](https://github.com/ardetrick/release-please-playground/commit/10ac3e8046fcc5a74aa6c6d220339912d57853b3))
+* try java-yoshi ([b12f8cf](https://github.com/ardetrick/release-please-playground/commit/b12f8cfb7295e736036fa2945083cf52752de0d9))
+* version.txt ([e54923b](https://github.com/ardetrick/release-please-playground/commit/e54923b7883a9856a7af6ef67993f2f490bbe90d))
+* yoshi ([a42b37a](https://github.com/ardetrick/release-please-playground/commit/a42b37a5c784689e8f78b3349dcf4a6ba7513dbe))
+
 ## [5.5.0](https://github.com/ardetrick/release-please-playground/compare/shared-lib-v5.4.0...shared-lib-v5.5.0) (2025-09-05)
 
 
