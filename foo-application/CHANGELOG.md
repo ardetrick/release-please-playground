@@ -6,6 +6,13 @@
 * The following workspace dependencies were updated
     * com.ardetrick:shared-lib bumped to 4.4.0
 
+## [6.9.0](https://github.com/ardetrick/release-please-playground/compare/foo-application-v6.8.0...foo-application-v6.9.0) (2025-09-11)
+
+
+### Features
+
+* **foo-application:** Minor change ([8169ca6](https://github.com/ardetrick/release-please-playground/commit/8169ca6e86ce4d4c640bbbd567518b45b878b46b))
+
 ## [6.8.0](https://github.com/ardetrick/release-please-playground/compare/foo-application-v6.7.0...foo-application-v6.8.0) (2025-09-11)
 
 
