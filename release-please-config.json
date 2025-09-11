@@ -8,7 +8,10 @@
     "shared-lib": {
       "path": "shared-lib",
       "release-type": "java-yoshi",
-      "component": "shared-lib"
+      "component": "shared-lib",
+      "extra-files": [
+        "../foo-application/pom.xml"
+      ]
     },
     "foo-application": {
       "path": "foo-application",
