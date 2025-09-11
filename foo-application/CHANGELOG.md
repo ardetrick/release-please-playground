@@ -9,6 +9,9 @@
 * The following workspace dependencies were updated
     * com.ardetrick:shared-lib bumped to 5.10.0
 
+* The following workspace dependencies were updated
+    * com.ardetrick:shared-lib bumped to 5.10.1-SNAPSHOT
+
 ## [6.9.0](https://github.com/ardetrick/release-please-playground/compare/foo-application-v6.8.0...foo-application-v6.9.0) (2025-09-11)
 
 
