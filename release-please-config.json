@@ -4,8 +4,16 @@
   "separate-pull-requests": false,
   "include-component-in-tag": true,
   "include-v-in-tag": true,
-  "release-type": "java-yoshi-mono-repo",
   "packages": {
-    ".": {}
+    "shared-lib": {
+      "path": "shared-lib",
+      "release-type": "java-yoshi",
+      "component": "shared-lib"
+    },
+    "foo-application": {
+      "path": "foo-application",
+      "release-type": "java-yoshi",
+      "component": "foo-application"
+    }
   }
 }
