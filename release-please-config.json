@@ -21,5 +21,10 @@
       "release-type": "java-yoshi",
       "component": "foo-application"
     }
-  }
+  },
+  "plugins": [
+    {
+      "type": "maven-workspace"
+    }
+  ]
 }
